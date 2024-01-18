@@ -1,5 +1,17 @@
 # changesets-docker-playground
 
+## 1.2.0
+
+### Minor Changes
+
+- 2e3ca5e: Split workflows again and use PAT
+- 7217f47: New release via CI 🤞
+
+### Patch Changes
+
+- fda6dd9: Combine workflows 🤞
+- 7217f47: Changesets Release PR 🤞
+
 ## 1.1.1
 
 ### Patch Changes
