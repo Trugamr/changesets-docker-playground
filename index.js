@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   return res.end(
     JSON.stringify({
       status: "success",
-      message: "hello 👋",
+      message: "bop ✨",
     })
   );
 });
