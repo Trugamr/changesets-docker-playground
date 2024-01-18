@@ -1,5 +1,11 @@
 # changesets-docker-playground
 
+## 1.2.1
+
+### Patch Changes
+
+- fda6dd9: Combine workflows 🤞
+
 ## 1.2.0
 
 ### Minor Changes
