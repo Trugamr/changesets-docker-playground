@@ -1,4 +1,5 @@
 import http from "node:http";
+import fs from "node:fs";
 
 // Start a simple HTTP server
 const server = http.createServer((req, res) => {
@@ -7,7 +8,7 @@ const server = http.createServer((req, res) => {
   return res.end(
     JSON.stringify({
       status: "success",
-      message: "bop ✨",
+      message: "bop 🚀",
     })
   );
 });
