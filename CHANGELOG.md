@@ -1,5 +1,11 @@
 # changesets-docker-playground
 
+## 3.0.0
+
+### Major Changes
+
+- 9430dbc: Update message
+
 ## 2.0.0
 
 ### Major Changes
