@@ -1,5 +1,11 @@
 # changesets-docker-playground
 
+## 1.1.1
+
+### Patch Changes
+
+- Check GitHub automatic release
+
 ## 1.1.0
 
 ### Minor Changes
