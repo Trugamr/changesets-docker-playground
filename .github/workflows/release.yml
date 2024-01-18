@@ -28,6 +28,9 @@ jobs:
         with:
           node-version: 20.11.0
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+
       - name: Install changesets CLI
         run: pnpm install -D @changesets/cli
 
