@@ -5,12 +5,12 @@
 We use [@changesets/cli](https://github.com/changesets/changesets) to manage our releases.
 
 ```bash
-# Create a new changeset and version
+# Create a new changeset 
 pnpm changeset
+# Combine changesets and version
 pnpm version
-
-# Since we are not publishing to npm, we need to manually create a git tag
-pnpm changeset tag
+# Create git tag for new version
+pnpm changeset publish
 
 # Push git tags
 git push --tags origin
