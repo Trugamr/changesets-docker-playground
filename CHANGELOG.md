@@ -1,5 +1,11 @@
 # changesets-docker-playground
 
+## 1.1.2
+
+### Patch Changes
+
+- 826285e: Changesets Release PR 🤞
+
 ## 1.1.1
 
 ### Patch Changes
